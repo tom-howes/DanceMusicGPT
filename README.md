@@ -13,7 +13,7 @@ Data
 - Lakh MIDI database - Colin Raffel. "Learning-Based Methods for Comparing Sequences, with Applications to Audio-to-MIDI Alignment and Matching". PhD Thesis, 2016. Messy metadata and mix of genres.
 - MIDI tracks - Found some free MIDI tracks on various online forums that replicate popular dance songs in simple MIDI format
 
-Ended up going for free MIDI tracks for initial testing
+Ended up going for free MIDI tracks for initial testing - pivoting to dance music as it is hard to find house MIDI tracks
 
 **Day 2**
 
