@@ -1,4 +1,4 @@
-# HouseMusicGPT
+# DanceMusicGPT
 Building a Transformer and training it on MIDI datasets using REMI+ tokenization to generate house music loops 
 
 Activity Log:
