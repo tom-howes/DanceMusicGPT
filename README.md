@@ -28,7 +28,7 @@ Training
    - Final training loss was ~0.02
    - Generated midi file was 500 tokens (2 seconds) and it successfully created 1 chord with some echo
  - Next trained for 50 epochs, halved LR and doubled batch size (~35 min on T4 GPU)
-   - Final training loss = 0.013
+   - Final training loss = 0.009
    - Ran into bug when generating will investigate tomorrow
 
 
